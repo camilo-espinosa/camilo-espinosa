@@ -1,7 +1,7 @@
-Msc. Electrical Engineering in process, fcfm, Universidad de Chile.
+Msc. Electrical Engineering, fcfm, Universidad de Chile.
 
-Interested in Machine Learning, Bayesian Statistics, Neuroscience, Information Theory and ethical implications of technology.
+Interested in Deep Learning, Neuroscience and Information Theory.
 
 Guitar and piano player, terrible singer.
 
-Spanish, English and Portuguese
+Spanish, English and Portuguese.
