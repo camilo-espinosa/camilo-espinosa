@@ -4,4 +4,4 @@ Interested in Deep Learning, Neuroscience and Information Theory.
 
 Guitar and piano player, terrible singer.
 
-Spanish, English and Portuguese.
+Spanish, Portuguese, and English.
